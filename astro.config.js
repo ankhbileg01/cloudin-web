@@ -6,8 +6,8 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://ctrimm.github.io',
-  base: '/astro-genai-startup-theme',
+  site: 'https://ankbileg01.github.io',
+  base: '/cloudin-web/',
   integrations: [
     react(),
     tailwind({
